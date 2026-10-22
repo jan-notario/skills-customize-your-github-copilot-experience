@@ -76,6 +76,24 @@
           "type": "text"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-persistence",
+      "title": "Persisting FastAPI Data with SQLite",
+      "description": "Replace in-memory task storage with persistent SQLite data using Python's standard library.",
+      "path": "assignments/fastapi-sqlite-persistence",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter_code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "text"
+        }
+      ]
     }
   ]
 }
