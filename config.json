@@ -94,6 +94,29 @@
           "type": "text"
         }
       ]
+    },
+    {
+      "id": "fastapi-pytest",
+      "title": "Testing FastAPI with pytest",
+      "description": "Write isolated automated tests for API responses, status codes, and SQLite persistence.",
+      "path": "assignments/fastapi-pytest",
+      "attachments": [
+        {
+          "name": "API Example",
+          "file": "app.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Starter",
+          "file": "test_api.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "text"
+        }
+      ]
     }
   ]
 }
